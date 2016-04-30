@@ -1,0 +1,1 @@
+ rows[i]->operator[](j) = rows[i]->operator[](j) + rhs.rows[i]->operator[](j);

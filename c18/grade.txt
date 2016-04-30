@@ -1,0 +1,50 @@
+
+This assignment was graded on 2015-11-10.07.29.02 UTC
+
+=============================================
+Grading p1 (worth 100 points)
+-------------------------------------------------
+***********************
+* Starting test 1     *
+***********************
+The output matches the expected output.
+==27961== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==27961== All heap blocks were freed -- no leaks are possible
+Valgrind reported no problems
+This test counts as 50% of the score for this problem
+This test was scored as correct (50)
+***********************
+* Starting test 2     *
+***********************
+Your program correctly indicated this was a failure case.
+==27986== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+Valgrind reported no problems
+This test counts as 5% of the score for this problem
+This test was scored as correct (5)
+***********************
+* Starting test 3     *
+***********************
+The output matches the expected output.
+==27994== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==27994== All heap blocks were freed -- no leaks are possible
+Valgrind reported no problems
+This test counts as 25% of the score for this problem
+This test was scored as correct (25)
+***********************
+* Starting test 4     *
+***********************
+The output matches the expected output.
+==28014== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 2 from 2)
+==28014== All heap blocks were freed -- no leaks are possible
+Valgrind reported no problems
+This test counts as 20% of the score for this problem
+This test was scored as correct (20)
+Percent this problem: 100 (= 100.0 / 100 points)
+------------------------------------------
+
+
+=============================================
+Overal score: 100.0
+
+This assignment was graded on 2015-11-10.07.29.02 UTC
+

@@ -1,0 +1,1 @@
+./palindrome `perl -e "print 'a' * 10000"`

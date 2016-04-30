@@ -1,0 +1,15 @@
+step1: 5th Fibonacci number is 5;
+step2: 0th Fibonacci number is 0;
+       1th Fibonacci number is 1;
+       2nd Fibonacci number is 0+1=1;
+       3rd Fibonacci number is 1+1=2;
+       4th Fibonacci number is 1+2=3;
+       5th Fibonacci number is 2+3=5;
+step3: 
+       test if (N<0) if it is true then return 0;
+       else if N==0 || N==1 return n;
+       else  name a variable as sum;
+       sum = N-1th Fibonacci number + N-2th Fibonacci number, for each N-1th and N-2th Fibonacci number, go to the beginning of s       tep3(recursion);
+       return sum;
+       }
+step4: N=6, 6th Fibonacci number = 8;

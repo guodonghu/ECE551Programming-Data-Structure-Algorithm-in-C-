@@ -1,0 +1,21 @@
+step1: 5th Fibonacci number is 5
+step2: 0th Fibonacci number is 0
+       1th Fibonacci number is 1
+       2nd Fibonacci number is 0+1=1
+       3rd Fibonacci number is 1+1=2
+       4th Fibonacci number is 1+2=3
+       5th Fibonacci number is 2+3=5
+step3: 
+       assign 0th Fibonacci number with 0;  1st Fibonacci number = 1;
+       test if(N is larger than 1) {
+       0th Fibonacci=0, 1st Fibonacci=1
+       count from 2 to N(both inclusive), call it i {
+       ith Fibonacci number = i-1th Fibonacci number + i-2th Fibonacci number
+      }
+       return ith Fibonacci number
+       }
+      else if(N==1 && N==1 ) {
+        return FibonacciN;
+      } 
+      else return 0;    
+step4: N=6, 6th Fibonacci number = 8;
